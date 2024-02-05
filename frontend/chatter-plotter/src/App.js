@@ -9,7 +9,7 @@ import CodeBlock from "./components/CodeBlock";
 import Grid from "@mui/material/Unstable_Grid2";
 import CircularProgress from "@mui/material/CircularProgress";
 
-const serverAddress = "http://35.192.118.40";
+const serverAddress = "";
 
 function App() {
   const [sendingMessage, setSendingMessage] = useState(false);
